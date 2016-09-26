@@ -16,6 +16,7 @@ const emojiMap = {
   '❤️': true, // heart, @todo why does it not display in atom?
   '😢': false,
   '😭': false,
+  '👏🏾': true,
   '💩': false,
   '😻': true,
   '😿': false
